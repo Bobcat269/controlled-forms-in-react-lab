@@ -88,6 +88,7 @@ input {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  border: 1px solid  #213547;;
   width: 90%;
   margin-top: 20px;
 }
